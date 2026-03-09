@@ -34,4 +34,4 @@ Computer Science Engineering
 Lovely Professional University
 
 ## Live Dashboard:
-https://public.tableau.com/your_dashboard_link
+https://tinyurl.com/2r9utafb
