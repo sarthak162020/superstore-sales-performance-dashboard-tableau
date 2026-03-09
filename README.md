@@ -32,3 +32,6 @@ The dashboard provides insights into sales trends, profitability, customer segme
 Sarthak Verma  
 Computer Science Engineering  
 Lovely Professional University
+
+## Live Dashboard:
+https://public.tableau.com/your_dashboard_link
